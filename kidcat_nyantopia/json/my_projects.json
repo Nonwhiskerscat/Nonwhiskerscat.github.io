@@ -41,7 +41,7 @@
         }
     ],
 
-    "Javasctipt": 
+    "Javascript": 
     [
         {
             "idx": 3,
@@ -83,7 +83,7 @@
         }
     ],
 
-    "React_Node": 
+    "React": 
     [
         {
             "idx": 6,
@@ -114,7 +114,7 @@
         {
             "idx": 8,
             "tag": "yuki",
-            "name": "雪上のわ 클론코딩",
+            "name": "유키가미 노와 클론코딩",
             "tone_count": 2,
             "main_tone": "#ffdcf4", 
             "tone": ["#fe71bd","#cff3fa"],
