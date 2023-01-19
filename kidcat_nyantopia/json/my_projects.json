@@ -8,7 +8,7 @@
             "tone_count": 2,
             "main_tone": "#e7a335", 
             "tone": ["#e7a335","#333333"],
-            "stroke": ["none", "#e7a335"],
+            "stroke": ["none", "none"],
             "con": 1,
             "peri": 20,
             "summ": "레트로한 디자인과 투박한 정보 위주로 구성이 되어 있던 고양이 보호협회의 사이트를 <span class='common_under'>현대의 트렌드에 맞게 리뉴얼하여 인터페이스적인 요소와 비쥬얼적인 요소를 한 층 업그레이드</span> 시켰습니다."
