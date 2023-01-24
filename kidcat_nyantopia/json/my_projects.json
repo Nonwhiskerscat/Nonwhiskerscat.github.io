@@ -24,7 +24,121 @@
             "stroke": ["none", "none", "none"],
             "con": 4,
             "peri": 35,
-            "summ": "여느 호텔 사이트와 달리 레트로하고 이용하기 힘든 기존 호텔 사이트에 <span class='common_under'>디자인적인 요소와 인터페이스적인 요소를 한 층 업그레이드</span> 시켜 새로운 사이트로 리뉴얼 하였고 로그인, 정보수정, 회원가입, 고객센터 등과 같은 <span class='common_under'>부수적인 기능</span>들을 추가하였습니다."
+            "summ": "여느 호텔 사이트와 달리 레트로하고 이용하기 힘든 기존 호텔 사이트에 <span class='common_under'>디자인적인 요소와 인터페이스적인 요소를 한 층 업그레이드</span> 시켜 새로운 사이트로 리뉴얼 하였고 로그인, 정보수정, 회원가입, 고객센터 등과 같은 <span class='common_under'>부수적인 기능</span>들을 추가하였습니다.",
+            "dnote": {
+                "tag_name": "fhotel",
+                "dn_id": 2,
+                "color": "#c3dded",
+
+                "header": {
+                    "title": "페어몬트<br> 앰배서더 호텔 서울",
+                    "git_link":"https://github.com/1stHotel/1stHotel.github.io",
+                    "web_link":"https://1sthotel.github.io/"
+                },
+
+                "ov": {
+                    "period": ["2022.10.18", "2022.11.15"],
+                    "date": 20,
+                    "mission": "페어몬트 앰배서더 호텔 공식 사이트 리뉴얼 및 로고제작",
+                    "tools": "HTML, CSS, J-Query, 일러스트레이터, 포토샵"
+                },
+                
+                "tnm": {
+                    "contain": true,
+                    "count": 5,
+                    "colors": [
+                        {
+                            "kor": "어바니티 베이지",
+                            "eng": "Urbanity Beige",
+                            "hex": "#FEFDF0",
+                            "rgb": ["254", "253", "240"],
+                            "hsb": ["56", "6", "99"],
+                            "let_color": "#422d13"
+                        },
+                        {
+                            "kor": "고져스 브라운",
+                            "eng": "Gorgeous Brown",
+                            "hex": "#422D13",
+                            "rgb": ["42", "27", "13"],
+                            "hsb": ["29", "69", "16"],
+                            "let_color": "#fefdf0"
+                        },
+                        {
+                            "kor": "글로리어스 네이비",
+                            "eng": "Glorious Navy",
+                            "hex": "#000044",
+                            "rgb": ["0", "0", "102"],
+                            "hsb": ["7", "35", "57"],
+                            "let_color": "#ffffff"
+                        },
+                        {
+                            "kor": "로얄 크림슨",
+                            "eng": "Royal Crimson",
+                            "hex": "#B80000",
+                            "rgb": ["173", "31", "36"],
+                            "hsb": ["358", "83", "67"],
+                            "let_color": "#ffffff"
+                        },
+                        {
+                            "kor": "럭셔리 골드",
+                            "eng": "Luxury Gold",
+                            "hex": "#996600",
+                            "rgb": ["153", "102", "0"],
+                            "hsb": ["40", "100", "60"],
+                            "let_color": "#ffffff"
+                        }
+                    ]
+                },
+
+                "font": {
+                    "contain": true,
+                    "count": 2,
+                    "family": [
+                        {
+                            "title":"Lemon Milk",
+                            "name": "LEMONMILK-LIGHT"
+                        },
+                        {
+                            "title":"에스코어 드림",
+                            "name": "SCoreDream"
+                        }
+                    ]
+                },
+
+                "grid": {
+                    "contain": true,
+                    "count": 2,
+                    "grid_entire": [
+                        {
+                            "tag": "mobile",
+                            "break": ["320", "px"],
+                            "cloumn": ["20.5", "percent"],
+                            "Gutter": ["5.13", "percent"],
+                            "Colums": ["4", "columns"]
+                        },
+                        {
+                            "tag": "pc",
+                            "break": ["1380", "px"],
+                            "cloumn": ["80", "px"],
+                            "Gutter": ["20", "px"],
+                            "Colums": ["14", "columns"]
+                        }
+
+                    ]
+                },
+
+                "bi_ci": {
+                    "contain": true,
+                    "count": 2,
+                    "bi_ci_tag": ["Main", "Alter"]
+                },
+
+                "result": {
+                    "count": 2,
+                    "result_tag": ["Main-Page", "Room-Page"]
+                }
+
+            }
         },
 
         {
