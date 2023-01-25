@@ -816,11 +816,11 @@
             "dnote": {
                 "tag_name": "yuki",
                 "dn_id": 3,
-                "color": "#cff3fa",
-                "backtone": "#9f095a",
+                "color": "#ffdcf4",
+                "backtone": "#03343a",
 
                 "header": {
-                    "title": "유키가미 노와 클론코딩",
+                    "title": "유키가미 노와<br>리액트 클론코딩",
                     "git_link":"https://github.com/Nonwhiskerscat/todolist",
                     "web_link":"https://nyantodolist.github.io/"
                 },
@@ -833,7 +833,7 @@
                 },
                 
                 "tnm": {
-                    "contain": "none",
+                    "contain": "block",
                     "count": 3,
                     "colors": [
                         {
