@@ -6,8 +6,8 @@
             "tag": "kopc",
             "name": "한국 고양이 보호협회(KOPC)",
             "tone_count": 2,
-            "main_tone": "#e7a335", 
-            "tone": ["#e7a335","#333333"],
+            "main_tone": "#E7A335", 
+            "tone": ["#E7A335","#333333"],
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 20,
@@ -15,11 +15,11 @@
             "dnote": {
                 "tag_name": "kopc",
                 "dn_id": 1,
-                "color": "#e7a335",
+                "color": "#E7A335",
                 "backtone": "#333333",
 
                 "header": {
-                    "title": "한국 고양이 보호협회",
+                    "title": "한국 고양이<br>보호협회(고보협)",
                     "git_link":"https://github.com/newkopc/newkopc.github.io",
                     "web_link":"https://newkopc.github.io/"
                 },
@@ -27,7 +27,7 @@
                 "ov": {
                     "period": ["2022.09.15", "2022.10.05"],
                     "date": 20,
-                    "mission": "고양이 보호협회 메인페이지 리뉴얼 및 로고제작",
+                    "mission": "한국 고양이 보호협회 메인페이지 리뉴얼 및 로고제작",
                     "tools": "HTML, CSS, J-Query, 일러스트레이터, 포토샵"
                 },
                 
@@ -235,7 +235,90 @@
             "stroke": ["none", "#e87d9e"],
             "con": 1,
             "peri": 44,
-            "summ": "일반적인 포트폴리오와 달리 <span class='common_under'>개성적인 요소를 부각시키기 위해 캐릭터를 삽입</span>하였으며, 바닐라 자바스크립트 코딩으로 <span class='common_under'>자바스크립트의 역량이 다소 높다는 것을 강조</span>하며 제작했습니다. "
+            "summ": "일반적인 포트폴리오와 달리 <span class='common_under'>개성적인 요소를 부각시키기 위해 캐릭터를 삽입</span>하였으며, 바닐라 자바스크립트 코딩으로 <span class='common_under'>자바스크립트의 역량이 다소 높다는 것을 강조</span>하며 제작했습니다. ",
+            "dnote": {
+                "tag_name": "kidcat",
+                "dn_id": 3,
+                "color": "#e87d9e",
+                "backtone": "#000620",
+
+                "header": {
+                    "title": "Kidcat<br>Nyantopia",
+                    "git_link":"https://github.com/Nonwhiskerscat/Kidcat_Nyantopia",
+                    "web_link":"https://github.com/Nonwhiskerscat/Kidcat_Nyantopia"
+                },
+
+                "ov": {
+                    "period": ["2022.12.14", "2023.01.27"],
+                    "date": 44,
+                    "mission": "개인 프로필 페이지 제작 및 캐릭터 디자인",
+                    "tools": "HTML, CSS, SCSS, Javascript, 일러스트레이터, 포토샵"
+                },
+                
+                "tnm": {
+                    "contain": "block",
+                    "count": 3,
+                    "colors": [
+                        {
+                            "kor": "키드캣 핑크",
+                            "eng": "Kidcat Pink",
+                            "hex": "#e87d9e",
+                            "rgb": ["232", "125", "158"],
+                            "hsb": ["341", "46", "91"],
+                            "let_color": "#000620"
+                        },
+                        {
+                            "kor": "키드캣 블루",
+                            "eng": "Kidcat Blue",
+                            "hex": "#000620",
+                            "rgb": ["0", "6", "32"],
+                            "hsb": ["229", "100", "13"],
+                            "let_color": "#e87d9e"
+                        }
+                    ]
+                },
+
+                "font": {
+                    "contain": "block",
+                    "count": 2,
+                    "family": [
+                        {
+                            "title":"210 구름고딕 030",
+                            "name": "210 GureumGothic 030"
+                        },
+                        {
+                            "title":"210 구름고딕 050",
+                            "name": "210 GureumGothic 050"
+                        }
+                    ]
+                },
+
+                "grid": {
+                    "contain": "block",
+                    "count": 1,
+                    "grid_entire": [
+                        {
+                            "screen": "PC",
+                            "break": ["1580", "px"],
+                            "col": ["80", "px"],
+                            "gut": ["20", "px"],
+                            "cols": ["16", "columns"]
+                        }
+                    ]
+                },
+
+                "bi": {
+                    "contain": "block",
+                    "count": 2,
+                    "bi_tag": ["Korean", "International"]
+                },
+
+                "result": {
+                    "count": 2,
+                    "result_tag": ["Dark", "Light"]
+                }
+
+            }
         }
     ],
 
