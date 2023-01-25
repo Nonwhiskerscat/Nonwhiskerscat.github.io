@@ -44,7 +44,7 @@
                 },
                 
                 "tnm": {
-                    "contain": true,
+                    "contain": "block",
                     "count": 5,
                     "colors": [
                         {
@@ -91,7 +91,7 @@
                 },
 
                 "font": {
-                    "contain": true,
+                    "contain": "block",
                     "count": 2,
                     "family": [
                         {
@@ -106,36 +106,36 @@
                 },
 
                 "grid": {
-                    "contain": true,
+                    "contain": "block",
                     "count": 2,
                     "grid_entire": [
                         {
-                            "tag": "mobile",
+                            "screen": "mobile",
                             "break": ["320", "px"],
-                            "cloumn": ["20.5", "percent"],
-                            "Gutter": ["5.13", "percent"],
-                            "Colums": ["4", "columns"]
+                            "col": ["20.5", "percent"],
+                            "gut": ["5.13", "percent"],
+                            "cols": ["4", "columns"]
                         },
                         {
-                            "tag": "pc",
+                            "screen": "pc",
                             "break": ["1380", "px"],
-                            "cloumn": ["80", "px"],
-                            "Gutter": ["20", "px"],
-                            "Colums": ["14", "columns"]
+                            "col": ["80", "px"],
+                            "gut": ["20", "px"],
+                            "cols": ["14", "columns"]
                         }
 
                     ]
                 },
 
-                "bi_ci": {
-                    "contain": true,
+                "bi": {
+                    "contain": "block",
                     "count": 2,
-                    "bi_ci_tag": ["Main", "Alter"]
+                    "bi_tag": ["Main", "Alter"]
                 },
 
                 "result": {
                     "count": 2,
-                    "result_tag": ["Main-Page", "Room-Page"]
+                    "result_tag": ["Main", "Room"]
                 }
 
             }
