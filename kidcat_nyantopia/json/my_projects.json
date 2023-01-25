@@ -262,7 +262,7 @@
                         {
                             "kor": "키드캣 핑크",
                             "eng": "Kidcat Pink",
-                            "hex": "#e87d9e",
+                            "hex": "#E87D9e",
                             "rgb": ["232", "125", "158"],
                             "hsb": ["341", "46", "91"],
                             "let_color": "#000620"
@@ -379,16 +379,16 @@
                             "kor": "그라운드 그린",
                             "eng": "Ground Green",
                             "hex": "#579434",
-                            "rgb": ["232", "125", "158"],
-                            "hsb": ["341", "46", "91"],
+                            "rgb": ["87", "148", "52"],
+                            "hsb": ["98", "65", "58"],
                             "let_color": "#fff000"
                         },
                         {
                             "kor": "스트라이크 옐로우",
                             "eng": "Strike Yellow",
-                            "hex": "#fff000",
-                            "rgb": ["0", "6", "32"],
-                            "hsb": ["229", "100", "13"],
+                            "hex": "#FFF000",
+                            "rgb": ["255", "240", "0"],
+                            "hsb": ["56", "100", "50"],
                             "let_color": "#579434"
                         }
                     ]
@@ -445,8 +445,8 @@
                 },
 
                 "result": {
-                    "count": 2,
-                    "result_tag": ["Main", "Design"]
+                    "count": 4,
+                    "result_tag": ["Main", "Method", "Game", "Alert"]
                 }
 
             }
@@ -454,15 +454,15 @@
 
         {
             "idx": 4,
-            "tag": "alarm",
-            "name": "알람시CAT",
+            "tag": "5x5",
+            "name": "Kidcat 5X5 Game",
             "tone_count": 2,
-            "main_tone": "#a3c9cc", 
-            "tone": ["#a3c9cc","#e87d9e"],
+            "main_tone": "#fcf8ac", 
+            "tone": ["#e87d9e","#fcf8ac"],
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 8,
-            "summ": "<span class='common_under'>퍼스널 아이덴티티 캐릭터와 일러스트를 적절히 활용하여 디자인</span> 하였고, 현재 시간을 직접 디자인 한 시계로 표현하는 등 Data 객체를 적절히 활용하여 <span class='common_under'>알람시계, 자정까지 남은 시간을 명시</span>하는 등 다양한 기능을 구현하였습니다."
+            "summ": "<span class='common_under'>퍼스널 아이덴티티 캐릭터와 일러스트를 적절히 활용하여 디자인</span> 하였고, 3X3 TIC-TAC-TOE 게임판을 5X5 형식으로 업그레이드 하였고 <span class='common_under'>가상의 객체를 하나 내세워 승패가 결정되도록 하는 프로그램을 개발</span>하였습니다."
         },
 
         {
