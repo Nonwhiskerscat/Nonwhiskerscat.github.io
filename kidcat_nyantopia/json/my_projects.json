@@ -464,7 +464,7 @@
             "peri": 8,
             "summ": "<span class='common_under'>퍼스널 아이덴티티 캐릭터와 일러스트를 적절히 활용하여 디자인</span> 하였고, 3X3 TIC-TAC-TOE 게임판을 5X5 형식으로 업그레이드 하였고 <span class='common_under'>가상의 객체를 하나 내세워 승패가 결정되도록 하는 프로그램을 개발</span>하였습니다.",
             "dnote": {
-                "tag_name": "yagu",
+                "tag_name": "5x5",
                 "dn_id": 1,
                 "color": "#fcf8ac",
                 "backtone": "#000620",
