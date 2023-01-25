@@ -753,7 +753,7 @@
 
                 "header": {
                     "title": "To Do App",
-                    "git_link":"https://github.com/Nonwhiskerscat/todolist",
+                    "git_link":"https://github.com/Nonwhiskerscat/todoapp",
                     "web_link":"https://nyantodolist.github.io/"
                 },
 
@@ -771,9 +771,14 @@
                 },
 
                 "font": {
-                    "contain": "none",
-                    "count": 0,
-                    "family": null
+                    "contain": "block",
+                    "count": 1,
+                    "family": [
+                        {
+                            "title":"아임크리 수진",
+                            "name": "ImcreSoojin"
+                        }
+                    ]
                 },
 
                 "grid": {
@@ -807,7 +812,93 @@
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 7,
-            "summ": "React를 활용하여 유키가미 노와 프로필 페이지를 Clone Coding하였고, <span class='common_under'>리덕스 및 라우터 기능을 활용하여 실제 웹 사이트에 접속한 것처럼 구현</span>하였습니다."
+            "summ": "React를 활용하여 유키가미 노와 프로필 페이지를 Clone Coding하였고, <span class='common_under'>리덕스 및 라우터 기능을 활용하여 실제 웹 사이트에 접속한 것처럼 구현</span>하였습니다.",
+            "dnote": {
+                "tag_name": "tda",
+                "dn_id": 2,
+                "color": "#fe71bd",
+                "backtone": "#cff3fa",
+
+                "header": {
+                    "title": "유키가미 노와 클론코딩",
+                    "git_link":"https://github.com/Nonwhiskerscat/todolist",
+                    "web_link":"https://nyantodolist.github.io/"
+                },
+
+                "ov": {
+                    "period": ["2023.01.08", "2023.01.12"],
+                    "date": "5",
+                    "mission": "SQL을 통해 저장된 데이터 수정 및 관리",
+                    "tools": "HTML, CSS, SCSS, Javascript, Yarn, Nodejs"
+                },
+                
+                "tnm": {
+                    "contain": "none",
+                    "count": 3,
+                    "colors": [
+                        {
+                            "kor": "스카이 블루",
+                            "eng": "Sky Blue",
+                            "hex": "#cff3fa",
+                            "rgb": ["207", "243", "250"],
+                            "hsb": ["190", "17", "98"],
+                            "let_color": "#000620"
+                        },
+                        {
+                            "kor": "딥 핑크",
+                            "eng": "Deep Pink",
+                            "hex": "#fe71bd",
+                            "rgb": ["254", "113", "189"],
+                            "hsb": ["328", "56", "100"],
+                            "let_color": "#fff"
+                        },
+                        {
+                            "kor": "라이티시 핑크",
+                            "eng": "Lightish Pink",
+                            "hex": "#ffdcf4",
+                            "rgb": ["255", "220", "244"],
+                            "hsb": ["319", "14", "100"],
+                            "let_color": "#fe71bd"
+                        }
+                    ]
+                },
+
+                "font": {
+                    "contain": "block",
+                    "count": 3,
+                    "family": [
+                        {
+                            "title":"よもぎ",
+                            "name": "Yomogi"
+                        },
+                        {
+                            "title":"ZEN紅道",
+                            "name": "Zen Kurenaido"
+                        },
+                        {
+                            "title":"ノトサンス JP",
+                            "name": "Noto Sans JP"
+                        }
+                    ]
+                },
+
+                "grid": {
+                    "contain": "none",
+                    "count": 0,
+                    "grid_entire": null
+                },
+
+                "bi": {
+                    "contain": "none",
+                    "count": 0,
+                    "bi_tag": null
+                },
+
+                "result": {
+                    "count": 2,
+                    "result_tag": ["Home", "News"]
+                }
+            }
         }
     ]
 }
