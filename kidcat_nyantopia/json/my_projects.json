@@ -373,7 +373,7 @@
                 
                 "tnm": {
                     "contain": "block",
-                    "count": 3,
+                    "count": 2,
                     "colors": [
                         {
                             "kor": "그라운드 그린",
@@ -458,7 +458,7 @@
             "name": "Kidcat 5X5 Game",
             "tone_count": 2,
             "main_tone": "#fcf8ac", 
-            "tone": ["#e87d9e","#fcf8ac"],
+            "tone": ["#fcf8ac","#e87d9e"],
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 8,
