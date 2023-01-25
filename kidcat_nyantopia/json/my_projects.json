@@ -29,6 +29,7 @@
                 "tag_name": "fhotel",
                 "dn_id": 2,
                 "color": "#c3dded",
+                "backtone": "#000044",
 
                 "header": {
                     "title": "페어몬트<br> 앰배서더 호텔 서울",
@@ -110,14 +111,14 @@
                     "count": 2,
                     "grid_entire": [
                         {
-                            "screen": "mobile",
+                            "screen": "Mobile",
                             "break": ["320", "px"],
                             "col": ["20.5", "percent"],
                             "gut": ["5.13", "percent"],
                             "cols": ["4", "columns"]
                         },
                         {
-                            "screen": "pc",
+                            "screen": "Pc",
                             "break": ["1380", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
