@@ -814,8 +814,8 @@
             "peri": 7,
             "summ": "React를 활용하여 유키가미 노와 프로필 페이지를 Clone Coding하였고, <span class='common_under'>리덕스 및 라우터 기능을 활용하여 실제 웹 사이트에 접속한 것처럼 구현</span>하였습니다.",
             "dnote": {
-                "tag_name": "tda",
-                "dn_id": 2,
+                "tag_name": "yuki",
+                "dn_id": 3,
                 "color": "#fe71bd",
                 "backtone": "#cff3fa",
 
