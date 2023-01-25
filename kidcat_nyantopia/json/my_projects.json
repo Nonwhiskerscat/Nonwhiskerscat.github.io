@@ -467,7 +467,7 @@
                 "tag_name": "5x5",
                 "dn_id": 1,
                 "color": "#fcf8ac",
-                "backtone": "#000620",
+                "backtone": "#333333",
 
                 "header": {
                     "title": "Kidcat<br>5X5 Game",
@@ -694,30 +694,13 @@
                     "period": ["2023.??.??", "2023.??.??"],
                     "date": "미정",
                     "mission": "리액트를 기반으로 일정 추가, 삭제, 수정 기능 구현",
-                    "tools": "HTML, CSS, SCSS, Javascript, React, Yarn, 일러스트레이터, 포토샵"
+                    "tools": "HTML, CSS, SCSS, Javascript, React, Yarn, 일러스트레이터"
                 },
                 
                 "tnm": {
-                    "contain": "block",
-                    "count": 2,
-                    "colors": [
-                        {
-                            "kor": "라이티시 그레이",
-                            "eng": "Lightish Gray",
-                            "hex": "#f3f3f3",
-                            "rgb": ["243", "243", "243"],
-                            "hsb": ["0", "0", "95"],
-                            "let_color": "#333333"
-                        },
-                        {
-                            "kor": "다이아 스카이블루",
-                            "eng": "Kidcat Pink",
-                            "hex": "#cff3fa",
-                            "rgb": ["207", "243", "250"],
-                            "hsb": ["190", "17", "98"],
-                            "let_color": "#000620"
-                        }
-                    ]
+                    "contain": "none",
+                    "count": 0,
+                    "colors": null
                 },
 
                 "font": {
@@ -725,38 +708,16 @@
                     "count": 1,
                     "family": [
                         {
-                            "title":"Josefin Slab",
-                            "name": "Josefin Slab"
-                        } 
+                            "title":"아임크리 수진",
+                            "name": "ImcreSoojin"
+                        }
                     ]
                 },
 
                 "grid": {
-                    "contain": "block",
-                    "count": 3,
-                    "grid_entire": [
-                        {
-                            "screen": "Mobile",
-                            "break": ["320", "px"],
-                            "col": ["21.9", "percent"],
-                            "gut": ["2.5", "percent"],
-                            "cols": ["4", "columns"]
-                        },
-                        {
-                            "screen": "Tablet",
-                            "break": ["768", "px"],
-                            "col": ["9.8", "percent"],
-                            "gut": ["2.6", "percent"],
-                            "cols": ["8", "columns"]
-                        },
-                        {
-                            "screen": "PC",
-                            "break": ["1380", "px"],
-                            "col": ["80", "px"],
-                            "gut": ["20", "px"],
-                            "cols": ["12", "columns"]
-                        }
-                    ]
+                    "contain": "none",
+                    "count": 0,
+                    "grid_entire": null
                 },
 
                 "bi": {
@@ -766,8 +727,8 @@
                 },
 
                 "result": {
-                    "count": 5,
-                    "result_tag": ["Main", "Game", "Basket", "Result", "Shop"]
+                    "count": 2,
+                    "result_tag": ["Main", "Modify"]
                 }
 
             }
@@ -783,7 +744,57 @@
             "stroke": [""],
             "con": 1,
             "peri": 5,
-            "summ": "Node.js를 활용하여 기능마다 링크를 부여하였고, MongoDB를 활용하여 <span class='common_under'>데이터 베이스에 저장된 데이터를 직접 조작</span>할 수 있도록 App을 제작하였습니다. 그리고 <span class='common_under'>SQL에 저장 되지 않은 ID/PW에 대해서는 로그인이 되지 않는</span> 기능도 구현해봤습니다."
+            "summ": "Node.js를 활용하여 기능마다 링크를 부여하였고, MongoDB를 활용하여 <span class='common_under'>데이터 베이스에 저장된 데이터를 직접 조작</span>할 수 있도록 App을 제작하였습니다. 그리고 <span class='common_under'>SQL에 저장 되지 않은 ID/PW에 대해서는 로그인이 되지 않는</span> 기능도 구현해봤습니다.",
+            "dnote": {
+                "tag_name": "tda",
+                "dn_id": 2,
+                "color": "#ceda6f",
+                "backtone": "#333333",
+
+                "header": {
+                    "title": "To Do App",
+                    "git_link":"https://github.com/Nonwhiskerscat/todolist",
+                    "web_link":"https://nyantodolist.github.io/"
+                },
+
+                "ov": {
+                    "period": ["2023.01.08", "2023.01.12"],
+                    "date": "5",
+                    "mission": "SQL을 통해 저장된 데이터 수정 및 관리",
+                    "tools": "HTML, CSS, SCSS, Javascript, Yarn, Nodejs"
+                },
+                
+                "tnm": {
+                    "contain": "none",
+                    "count": 0,
+                    "colors": null
+                },
+
+                "font": {
+                    "contain": "none",
+                    "count": 0,
+                    "family": null
+                },
+
+                "grid": {
+                    "contain": "none",
+                    "count": 0,
+                    "grid_entire": null
+                },
+
+                "bi": {
+                    "contain": "none",
+                    "count": 0,
+                    "bi_tag": null
+                },
+
+                "result": {
+                    "count": 2,
+                    "result_tag": ["Main", "Data"]
+                }
+
+            }
+            
         },
 
         {
