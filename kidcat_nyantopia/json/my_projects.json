@@ -11,7 +11,122 @@
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 20,
-            "summ": "레트로한 디자인과 투박한 정보 위주로 구성이 되어 있던 고양이 보호협회의 사이트를 <span class='common_under'>현대의 트렌드에 맞게 리뉴얼하여 인터페이스적인 요소와 비쥬얼적인 요소를 한 층 업그레이드</span> 시켰습니다."
+            "summ": "레트로한 디자인과 투박한 정보 위주로 구성이 되어 있던 고양이 보호협회의 사이트를 <span class='common_under'>현대의 트렌드에 맞게 리뉴얼하여 인터페이스적인 요소와 비쥬얼적인 요소를 한 층 업그레이드</span> 시켰습니다.",
+            "dnote": {
+                "tag_name": "kopc",
+                "dn_id": 1,
+                "color": "#e7a335",
+                "backtone": "#333333",
+
+                "header": {
+                    "title": "페어몬트<br> 앰배서더 호텔 서울",
+                    "git_link":"https://github.com/1stHotel/1stHotel.github.io",
+                    "web_link":"https://1sthotel.github.io/"
+                },
+
+                "ov": {
+                    "period": ["2022.10.18", "2022.11.15"],
+                    "date": 20,
+                    "mission": "페어몬트 앰배서더 호텔 공식 사이트 리뉴얼 및 로고제작",
+                    "tools": "HTML, CSS, J-Query, 일러스트레이터, 포토샵"
+                },
+                
+                "tnm": {
+                    "contain": "block",
+                    "count": 5,
+                    "colors": [
+                        {
+                            "kor": "어바니티 베이지",
+                            "eng": "Urbanity Beige",
+                            "hex": "#FEFDF0",
+                            "rgb": ["254", "253", "240"],
+                            "hsb": ["56", "6", "99"],
+                            "let_color": "#422d13"
+                        },
+                        {
+                            "kor": "고져스 브라운",
+                            "eng": "Gorgeous Brown",
+                            "hex": "#422D13",
+                            "rgb": ["42", "27", "13"],
+                            "hsb": ["29", "69", "16"],
+                            "let_color": "#fefdf0"
+                        },
+                        {
+                            "kor": "글로리어스 네이비",
+                            "eng": "Glorious Navy",
+                            "hex": "#000044",
+                            "rgb": ["0", "0", "102"],
+                            "hsb": ["7", "35", "57"],
+                            "let_color": "#ffffff"
+                        },
+                        {
+                            "kor": "로얄 크림슨",
+                            "eng": "Royal Crimson",
+                            "hex": "#B80000",
+                            "rgb": ["173", "31", "36"],
+                            "hsb": ["358", "83", "67"],
+                            "let_color": "#ffffff"
+                        },
+                        {
+                            "kor": "럭셔리 골드",
+                            "eng": "Luxury Gold",
+                            "hex": "#996600",
+                            "rgb": ["153", "102", "0"],
+                            "hsb": ["40", "100", "60"],
+                            "let_color": "#ffffff"
+                        }
+                    ]
+                },
+
+                "font": {
+                    "contain": "block",
+                    "count": 2,
+                    "family": [
+                        {
+                            "title":"Lemon Milk",
+                            "name": "LEMONMILK-LIGHT"
+                        },
+                        {
+                            "title":"에스코어 드림",
+                            "name": "SCoreDream"
+                        }
+                    ]
+                },
+
+                "grid": {
+                    "contain": "block",
+                    "count": 2,
+                    "grid_entire": [
+                        {
+                            "screen": "Mobile",
+                            "break": ["320", "px"],
+                            "col": ["20.5", "percent"],
+                            "gut": ["5.13", "percent"],
+                            "cols": ["4", "columns"]
+                        },
+                        {
+                            "screen": "Pc",
+                            "break": ["1380", "px"],
+                            "col": ["80", "px"],
+                            "gut": ["20", "px"],
+                            "cols": ["14", "columns"]
+                        }
+
+                    ]
+                },
+
+                "bi": {
+                    "contain": "block",
+                    "count": 2,
+                    "bi_tag": ["Main", "Alter"]
+                },
+
+                "result": {
+                    "count": 2,
+                    "result_tag": ["Main", "Room"]
+                }
+
+            }
         },
 
         {
@@ -29,7 +144,7 @@
                 "tag_name": "fhotel",
                 "dn_id": 2,
                 "color": "#c3dded",
-                "backtone": "#000044",
+                "backtone": "#000066",
 
                 "header": {
                     "title": "페어몬트<br> 앰배서더 호텔 서울",
