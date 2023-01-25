@@ -143,8 +143,9 @@
             "dnote": {
                 "tag_name": "fhotel",
                 "dn_id": 2,
-                "color": "#c3dded",
-                "backtone": "#000066",
+                "color": "#fefdf0",
+                "backtone": "#422d13"
+                ,
 
                 "header": {
                     "title": "페어몬트<br> 앰배서더 호텔 서울",
