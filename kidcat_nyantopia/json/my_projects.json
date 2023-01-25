@@ -571,7 +571,7 @@
             "summ": "바닐라 자바 스크립트를 활용하여 4차 산업 스마트 시대에 가장 많이 사용하며 <span class='common_under'>재화 구매 가격을 기반으로 한 거스름돈을 계산할 수 있는 키오스크를 구현</span>하였고, 그 중에서 국내에 존재하지 않는 다이아몬드 키오스크를 신박하게 제작하였습니다.",
             "dnote": {
                 "tag_name": "dia",
-                "dn_id": 1,
+                "dn_id": 3,
                 "color": "#cff3fa",
                 "backtone": "#333333",
 
@@ -677,7 +677,100 @@
             "stroke": [""],
             "con": 1,
             "peri": 7,
-            "summ": "React-App 플랫폼을 기반으로 Todolist를 제작하여 <span class='common_under'>일정 추가, 체크, 삭제, 수정 기능을 구현</span>하였고 이 외에 Date 객체를 활용하여 자정까지 남은 시간을 계산하는 기능도 첨가하였습니다."
+            "summ": "React-App 플랫폼을 기반으로 Todolist를 제작하여 <span class='common_under'>일정 추가, 체크, 삭제, 수정 기능을 구현</span>하였고 이 외에 Date 객체를 활용하여 자정까지 남은 시간을 계산하는 기능도 첨가하였습니다.",
+            "dnote": {
+                "tag_name": "tdl",
+                "dn_id": 1,
+                "color": "#cff3fa",
+                "backtone": "#333333",
+
+                "header": {
+                    "title": "Nyan Diamond",
+                    "git_link":"https://github.com/Nonwhiskerscat/NyanDiamond",
+                    "web_link":"https://github.com/Nonwhiskerscat/NyanDiamond"
+                },
+
+                "ov": {
+                    "period": ["2023.??.??", "2023.??.??"],
+                    "date": "미정",
+                    "mission": "바닐라 자바스크립트로 키오스크 프로그램 구현",
+                    "tools": "HTML, CSS, SCSS, Javascript, 일러스트레이터, 포토샵"
+                },
+                
+                "tnm": {
+                    "contain": "block",
+                    "count": 2,
+                    "colors": [
+                        {
+                            "kor": "라이티시 그레이",
+                            "eng": "Lightish Gray",
+                            "hex": "#f3f3f3",
+                            "rgb": ["243", "243", "243"],
+                            "hsb": ["0", "0", "95"],
+                            "let_color": "#333333"
+                        },
+                        {
+                            "kor": "다이아 스카이블루",
+                            "eng": "Kidcat Pink",
+                            "hex": "#cff3fa",
+                            "rgb": ["207", "243", "250"],
+                            "hsb": ["190", "17", "98"],
+                            "let_color": "#000620"
+                        }
+                    ]
+                },
+
+                "font": {
+                    "contain": "block",
+                    "count": 1,
+                    "family": [
+                        {
+                            "title":"Josefin Slab",
+                            "name": "Josefin Slab"
+                        } 
+                    ]
+                },
+
+                "grid": {
+                    "contain": "block",
+                    "count": 3,
+                    "grid_entire": [
+                        {
+                            "screen": "Mobile",
+                            "break": ["320", "px"],
+                            "col": ["21.9", "percent"],
+                            "gut": ["2.5", "percent"],
+                            "cols": ["4", "columns"]
+                        },
+                        {
+                            "screen": "Tablet",
+                            "break": ["768", "px"],
+                            "col": ["9.8", "percent"],
+                            "gut": ["2.6", "percent"],
+                            "cols": ["8", "columns"]
+                        },
+                        {
+                            "screen": "PC",
+                            "break": ["1380", "px"],
+                            "col": ["80", "px"],
+                            "gut": ["20", "px"],
+                            "cols": ["12", "columns"]
+                        }
+                    ]
+                },
+
+                "bi": {
+                    "contain": "none",
+                    "count": 0,
+                    "bi_tag": null
+                },
+
+                "result": {
+                    "count": 5,
+                    "result_tag": ["Main", "Game", "Basket", "Result", "Shop"]
+                }
+
+            }
         },
 
         {
