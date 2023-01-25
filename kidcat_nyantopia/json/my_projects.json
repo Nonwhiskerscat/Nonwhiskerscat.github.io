@@ -816,8 +816,8 @@
             "dnote": {
                 "tag_name": "yuki",
                 "dn_id": 3,
-                "color": "#fe71bd",
-                "backtone": "#cff3fa",
+                "color": "#cff3fa",
+                "backtone": "#9f095a",
 
                 "header": {
                     "title": "유키가미 노와 클론코딩",
