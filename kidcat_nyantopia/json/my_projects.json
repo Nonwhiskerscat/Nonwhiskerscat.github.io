@@ -280,25 +280,42 @@
 
                 "font": {
                     "contain": "block",
-                    "count": 2,
+                    "count": 1,
                     "family": [
                         {
-                            "title":"210 구름고딕 030",
+                            "title":"아임크리 수진",
                             "name": "210 GureumGothic 030"
-                        },
-                        {
-                            "title":"210 구름고딕 050",
-                            "name": "210 GureumGothic 050"
                         }
                     ]
                 },
 
                 "grid": {
                     "contain": "block",
-                    "count": 1,
+                    "count": 4,
                     "grid_entire": [
                         {
+                            "screen": "Mobile",
+                            "break": ["320", "px"],
+                            "col": ["21.9", "percent"],
+                            "gut": ["2.5", "percent"],
+                            "cols": ["4", "columns"]
+                        },
+                        {
+                            "screen": "Tablet",
+                            "break": ["768", "px"],
+                            "col": ["9.8", "percent"],
+                            "gut": ["2.6", "percent"],
+                            "cols": ["8", "columns"]
+                        },
+                        {
                             "screen": "PC",
+                            "break": ["1180", "px"],
+                            "col": ["80", "px"],
+                            "gut": ["20", "px"],
+                            "cols": ["12", "columns"]
+                        },
+                        {
+                            "screen": "Huge-PC",
                             "break": ["1580", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
@@ -310,12 +327,12 @@
                 "bi": {
                     "contain": "block",
                     "count": 2,
-                    "bi_tag": ["Korean", "International"]
+                    "bi_tag": ["Common", "Alter"]
                 },
 
                 "result": {
                     "count": 2,
-                    "result_tag": ["Dark", "Light"]
+                    "result_tag": ["Main", "Design"]
                 }
 
             }
