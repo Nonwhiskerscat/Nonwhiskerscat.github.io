@@ -658,7 +658,7 @@
 
                 "result": {
                     "count": 5,
-                    "result_tag": ["Main", "Game", "Basket", "Result", "Shop"]
+                    "result_tag": ["Intro", "Main", "Basket", "Result", "Shop"]
                 }
 
             }
@@ -686,8 +686,8 @@
 
                 "header": {
                     "title": "To Do List",
-                    "git_link":"https://github.com/Nonwhiskerscat/NyanDiamond",
-                    "web_link":"https://github.com/Nonwhiskerscat/NyanDiamond"
+                    "git_link":"https://github.com/Nonwhiskerscat/todolist",
+                    "web_link":"https://nyantodolist.github.io/"
                 },
 
                 "ov": {
