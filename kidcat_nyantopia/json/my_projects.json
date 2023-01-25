@@ -356,7 +356,7 @@
                 "tag_name": "yagu",
                 "dn_id": 1,
                 "color": "#fff000",
-                "backtone": "#579434",
+                "backtone": "#183508",
 
                 "header": {
                     "title": "Nyan Baseball",
@@ -567,25 +567,25 @@
             "tone": ["#f3f3f3","#cff3fa"],
             "stroke": ["none", "none"],
             "con": 3,
-            "peri": 14,
+            "peri": "?",
             "summ": "바닐라 자바 스크립트를 활용하여 4차 산업 스마트 시대에 가장 많이 사용하며 <span class='common_under'>재화 구매 가격을 기반으로 한 거스름돈을 계산할 수 있는 키오스크를 구현</span>하였고, 그 중에서 국내에 존재하지 않는 다이아몬드 키오스크를 신박하게 제작하였습니다.",
             "dnote": {
-                "tag_name": "5x5",
+                "tag_name": "dia",
                 "dn_id": 1,
                 "color": "#cff3fa",
-                "backtone": "#000620",
+                "backtone": "#333333",
 
                 "header": {
-                    "title": "Kidcat<br>5X5 Game",
-                    "git_link":"https://github.com/kidcat5X5game/kidcat5X5game.github.io",
-                    "web_link":"https://kidcat5x5game.github.io/"
+                    "title": "Nyan Diamond",
+                    "git_link":"https://github.com/Nonwhiskerscat/NyanDiamond",
+                    "web_link":"https://github.com/Nonwhiskerscat/NyanDiamond"
                 },
 
                 "ov": {
                     "period": ["2023.??.??", "2023.??.??"],
-                    "date": 8,
-                    "mission": "바닐라 자바스크립트로 5X5 TIC-TAC-TOE 게임 구현",
-                    "tools": "HTML, CSS, SCSS, Javascript, 일러스트레이터"
+                    "date": "미정",
+                    "mission": "바닐라 자바스크립트로 키오스크 프로그램 구현",
+                    "tools": "HTML, CSS, SCSS, Javascript, 일러스트레이터, 포토샵"
                 },
                 
                 "tnm": {
@@ -593,20 +593,20 @@
                     "count": 2,
                     "colors": [
                         {
-                            "kor": "키드캣 옐로우",
-                            "eng": "Kidcat Yellow",
-                            "hex": "#fcf8ac",
-                            "rgb": ["252", "248", "172"],
-                            "hsb": ["57", "32", "99"],
-                            "let_color": "#000620"
+                            "kor": "라이티시 그레이",
+                            "eng": "Lightish Gray",
+                            "hex": "#f3f3f3",
+                            "rgb": ["243", "243", "243"],
+                            "hsb": ["0", "0", "95"],
+                            "let_color": "#333333"
                         },
                         {
-                            "kor": "키드캣 핑크",
+                            "kor": "다이아 스카이블루",
                             "eng": "Kidcat Pink",
-                            "hex": "#E87D9e",
-                            "rgb": ["232", "125", "158"],
-                            "hsb": ["341", "46", "91"],
-                            "let_color": "#fff"
+                            "hex": "#cff3fa",
+                            "rgb": ["207", "243", "250"],
+                            "hsb": ["190", "17", "98"],
+                            "let_color": "#000620"
                         }
                     ]
                 },
