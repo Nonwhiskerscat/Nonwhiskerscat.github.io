@@ -265,7 +265,7 @@
                             "hex": "#E87D9e",
                             "rgb": ["232", "125", "158"],
                             "hsb": ["341", "46", "91"],
-                            "let_color": "#000620"
+                            "let_color": "#fff"
                         },
                         {
                             "kor": "키드캣 블루",
@@ -446,7 +446,7 @@
 
                 "result": {
                     "count": 4,
-                    "result_tag": ["Main", "Method", "Game", "Alert"]
+                    "result_tag": ["Main", "Method", "Game", "Result"]
                 }
 
             }
@@ -462,7 +462,100 @@
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 8,
-            "summ": "<span class='common_under'>퍼스널 아이덴티티 캐릭터와 일러스트를 적절히 활용하여 디자인</span> 하였고, 3X3 TIC-TAC-TOE 게임판을 5X5 형식으로 업그레이드 하였고 <span class='common_under'>가상의 객체를 하나 내세워 승패가 결정되도록 하는 프로그램을 개발</span>하였습니다."
+            "summ": "<span class='common_under'>퍼스널 아이덴티티 캐릭터와 일러스트를 적절히 활용하여 디자인</span> 하였고, 3X3 TIC-TAC-TOE 게임판을 5X5 형식으로 업그레이드 하였고 <span class='common_under'>가상의 객체를 하나 내세워 승패가 결정되도록 하는 프로그램을 개발</span>하였습니다.",
+            "dnote": {
+                "tag_name": "yagu",
+                "dn_id": 1,
+                "color": "#fcf8ac",
+                "backtone": "#000620",
+
+                "header": {
+                    "title": "Kidcat<br>5X5 Game",
+                    "git_link":"https://github.com/kidcat5X5game/kidcat5X5game.github.io",
+                    "web_link":"https://kidcat5x5game.github.io/"
+                },
+
+                "ov": {
+                    "period": ["2023.01.12", "2023.01.19"],
+                    "date": 8,
+                    "mission": "바닐라 자바스크립트로 5X5 TIC-TAC-TOE 게임 구현",
+                    "tools": "HTML, CSS, SCSS, Javascript, 일러스트레이터"
+                },
+                
+                "tnm": {
+                    "contain": "block",
+                    "count": 2,
+                    "colors": [
+                        {
+                            "kor": "키드캣 옐로우",
+                            "eng": "Kidcat Yellow",
+                            "hex": "#fcf8ac",
+                            "rgb": ["252", "248", "172"],
+                            "hsb": ["57", "32", "99"],
+                            "let_color": "#000620"
+                        },
+                        {
+                            "kor": "키드캣 핑크",
+                            "eng": "Kidcat Pink",
+                            "hex": "#E87D9e",
+                            "rgb": ["232", "125", "158"],
+                            "hsb": ["341", "46", "91"],
+                            "let_color": "#fff"
+                        }
+                    ]
+                },
+
+                "font": {
+                    "contain": "block",
+                    "count": 1,
+                    "family": [
+                        {
+                            "title":"아임크리 수진",
+                            "name": "ImcreSoojin"
+                        } 
+                    ]
+                },
+
+                "grid": {
+                    "contain": "block",
+                    "count": 3,
+                    "grid_entire": [
+                        {
+                            "screen": "Mobile",
+                            "break": ["320", "px"],
+                            "col": ["21.9", "percent"],
+                            "gut": ["2.5", "percent"],
+                            "cols": ["4", "columns"]
+                        },
+                        {
+                            "screen": "Tablet",
+                            "break": ["768", "px"],
+                            "col": ["9.8", "percent"],
+                            "gut": ["2.6", "percent"],
+                            "cols": ["8", "columns"]
+                        },
+                        {
+                            "screen": "PC",
+                            "break": ["1380", "px"],
+                            "col": ["80", "px"],
+                            "gut": ["20", "px"],
+                            "cols": ["12", "columns"]
+                        }
+                    ]
+                },
+
+                "bi": {
+                    "contain": "none",
+                    "count": 0,
+                    "bi_tag": null
+                },
+
+                "result": {
+                    "count": 2,
+                    "result_tag": ["Main", "Game"]
+                }
+
+            }
         },
 
         {
