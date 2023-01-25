@@ -257,7 +257,7 @@
                 
                 "tnm": {
                     "contain": "block",
-                    "count": 3,
+                    "count": 2,
                     "colors": [
                         {
                             "kor": "키드캣 핑크",
@@ -351,7 +351,105 @@
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 12,
-            "summ": "J-Query를 일절 사용하지 않고 오직 <span class='common_under'>바닐라 자바스크립트 만</span>으로 숫자 야구 게임을 제작하였고, <span class='common_under'>기존 룰에서 점수 계산, 상점 기능을 추가</span>하여 재미를 한 층 더 높였습니다."
+            "summ": "J-Query를 일절 사용하지 않고 오직 <span class='common_under'>바닐라 자바스크립트 만</span>으로 숫자 야구 게임을 제작하였고, <span class='common_under'>기존 룰에서 점수 계산, 상점 기능을 추가</span>하여 재미를 한 층 더 높였습니다.",
+            "dnote": {
+                "tag_name": "yagu",
+                "dn_id": 1,
+                "color": "#fff000",
+                "backtone": "#579434",
+
+                "header": {
+                    "title": "Nyan Baseball",
+                    "git_link":"https://github.com/Nonwhiskerscat/nyan_baseball",
+                    "web_link":"https://github.com/nyanbaseball2/nyanbaseball2.github.io"
+                },
+
+                "ov": {
+                    "period": ["2022.12.01", "2023.12.12"],
+                    "date": 12,
+                    "mission": "바닐라 자바스크립트로 숫자야구게임 구현",
+                    "tools": "HTML, CSS, SCSS, Javascript, 일러스트레이터, 포토샵"
+                },
+                
+                "tnm": {
+                    "contain": "block",
+                    "count": 3,
+                    "colors": [
+                        {
+                            "kor": "그라운드 그린",
+                            "eng": "Ground Green",
+                            "hex": "#579434",
+                            "rgb": ["232", "125", "158"],
+                            "hsb": ["341", "46", "91"],
+                            "let_color": "#fff000"
+                        },
+                        {
+                            "kor": "스트라이크 옐로우",
+                            "eng": "Strike Yellow",
+                            "hex": "#fff000",
+                            "rgb": ["0", "6", "32"],
+                            "hsb": ["229", "100", "13"],
+                            "let_color": "#579434"
+                        }
+                    ]
+                },
+
+                "font": {
+                    "contain": "block",
+                    "count": 2,
+                    "family": [
+                        {
+                            "title":"IBMPlex",
+                            "name": "IBMPlexSansKR-Regular"
+                        }, 
+
+                        {
+                            "title":"영도체",
+                            "name": "Yeongdo-Rg"
+                        }
+                    ]
+                },
+
+                "grid": {
+                    "contain": "block",
+                    "count": 3,
+                    "grid_entire": [
+                        {
+                            "screen": "Mobile",
+                            "break": ["390", "px"],
+                            "col": ["20", "percent"],
+                            "gut": ["3.3", "percent"],
+                            "cols": ["4", "columns"]
+                        },
+                        {
+                            "screen": "Tablet",
+                            "break": ["768", "px"],
+                            "col": ["79", "percent"],
+                            "gut": ["2.2", "percent"],
+                            "cols": ["8", "columns"]
+                        },
+                        {
+                            "screen": "PC",
+                            "break": ["1180", "px"],
+                            "col": ["80", "px"],
+                            "gut": ["20", "px"],
+                            "cols": ["12", "columns"]
+                        }
+                    ]
+                },
+
+                "bi": {
+                    "contain": "none",
+                    "count": 0,
+                    "bi_tag": null
+                },
+
+                "result": {
+                    "count": 2,
+                    "result_tag": ["Main", "Design"]
+                }
+
+            }
         },
 
         {
