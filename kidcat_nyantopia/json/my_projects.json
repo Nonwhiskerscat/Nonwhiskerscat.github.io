@@ -11,7 +11,7 @@
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 20,
-            "btn_tag": "web",
+            "web_link":"https://newkopc.github.io/",
             "summ": "레트로한 디자인과 투박한 정보 위주로 구성이 되어 있던 고양이 보호협회의 사이트를 <span class='common_under'>현대의 트렌드에 맞게 리뉴얼하여 인터페이스적인 요소와 비쥬얼적인 요소를 한 층 업그레이드</span> 시켰습니다.",
             "dnote": {
                 "tag_name": "kopc",
@@ -108,7 +108,7 @@
             "stroke": ["none", "none", "none"],
             "con": 4,
             "peri": 35,
-            "btn_tag": "web",
+            "web_link":"https://1sthotel.github.io/",
             "summ": "여느 호텔 사이트와 달리 레트로하고 이용하기 힘든 기존 호텔 사이트에 <span class='common_under'>디자인적인 요소와 인터페이스적인 요소를 한 층 업그레이드</span> 시켜 새로운 사이트로 리뉴얼 하였고 로그인, 정보수정, 회원가입, 고객센터 등과 같은 <span class='common_under'>부수적인 기능</span>들을 추가하였습니다.",
             "dnote": {
                 "tag_name": "fhotel",
@@ -237,6 +237,7 @@
             "stroke": ["none", "#e87d9e"],
             "con": 1,
             "peri": 44,
+            "web_link":"https://github.com/Nonwhiskerscat/Kidcat_Nyantopia",
             "btn_tag": "web",
             "summ": "일반적인 포트폴리오와 달리 <span class='common_under'>개성적인 요소를 부각시키기 위해 캐릭터를 삽입</span>하였으며, 바닐라 자바스크립트 코딩으로 <span class='common_under'>자바스크립트의 역량이 다소 높다는 것을 강조</span>하며 제작했습니다. ",
             "dnote": {
@@ -355,6 +356,7 @@
             "con": 1,
             "peri": 12,
             "btn_tag": "java",
+            "web_link":"https://github.com/nyanbaseball2/nyanbaseball2.github.io",
             "summ": "J-Query를 일절 사용하지 않고 오직 <span class='common_under'>바닐라 자바스크립트 만</span>으로 숫자 야구 게임을 제작하였고, <span class='common_under'>기존 룰에서 점수 계산, 상점 기능을 추가</span>하여 재미를 한 층 더 높였습니다.",
             "dnote": {
                 "tag_name": "yagu",
@@ -466,6 +468,7 @@
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 8,
+            "web_link":"https://kidcat5x5game.github.io/",
             "btn_tag": "java",
             "summ": "<span class='common_under'>퍼스널 아이덴티티 캐릭터와 일러스트를 적절히 활용하여 디자인</span> 하였고, 3X3 TIC-TAC-TOE 게임판을 5X5 형식으로 업그레이드 하였고 <span class='common_under'>가상의 객체를 하나 내세워 승패가 결정되도록 하는 프로그램을 개발</span>하였습니다.",
             "dnote": {
@@ -574,6 +577,7 @@
             "con": 3,
             "peri": "?",
             "btn_tag": "java",
+            "web_link": null,
             "summ": "바닐라 자바 스크립트를 활용하여 4차 산업 스마트 시대에 가장 많이 사용하며 <span class='common_under'>재화 구매 가격을 기반으로 한 거스름돈을 계산할 수 있는 키오스크를 구현</span>하였고, 그 중에서 국내에 존재하지 않는 다이아몬드 키오스크를 신박하게 제작하였습니다.",
             "dnote": {
                 "tag_name": "dia",
@@ -683,6 +687,7 @@
             "stroke": [""],
             "con": 1,
             "peri": 7,
+            "web_link":"https://nyantodolist.github.io/",
             "btn_tag": "react",
             "summ": "React-App 플랫폼을 기반으로 Todolist를 제작하여 <span class='common_under'>일정 추가, 체크, 삭제, 수정 기능을 구현</span>하였고 이 외에 Date 객체를 활용하여 자정까지 남은 시간을 계산하는 기능도 첨가하였습니다.",
             "dnote": {
@@ -752,6 +757,7 @@
             "con": 1,
             "peri": 5,
             "btn_tag": "react",
+            "web_link":"https://nyantodolist.github.io/",
             "summ": "Node.js를 활용하여 기능마다 링크를 부여하였고, MongoDB를 활용하여 <span class='common_under'>데이터 베이스에 저장된 데이터를 직접 조작</span>할 수 있도록 App을 제작하였습니다. 그리고 <span class='common_under'>SQL에 저장 되지 않은 ID/PW에 대해서는 로그인이 되지 않는</span> 기능도 구현해봤습니다.",
             "dnote": {
                 "tag_name": "tda",
@@ -830,8 +836,8 @@
 
                 "header": {
                     "title": "유키가미 노와<br>리액트 클론코딩",
-                    "git_link":"https://github.com/Nonwhiskerscat/todolist",
-                    "web_link":"https://nyantodolist.github.io/"
+                    "git_link":"https://github.com/yukigaminowa2/yukigaminowa2.github.io",
+                    "web_link": null
                 },
 
                 "ov": {
