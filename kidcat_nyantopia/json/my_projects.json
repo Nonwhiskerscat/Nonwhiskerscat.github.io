@@ -76,7 +76,7 @@
                     "grid_entire": [
                         {
                             "screen": "PC",
-                            "break": ["1580", "px"],
+                            "break": ["1600", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
                             "cols": ["16", "columns"]
@@ -204,7 +204,7 @@
                         },
                         {
                             "screen": "PC",
-                            "break": ["1380", "px"],
+                            "break": ["1400", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
                             "cols": ["14", "columns"]
@@ -312,14 +312,14 @@
                         },
                         {
                             "screen": "PC",
-                            "break": ["1180", "px"],
+                            "break": ["1200", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
                             "cols": ["12", "columns"]
                         },
                         {
                             "screen": "Huge-PC",
-                            "break": ["1580", "px"],
+                            "break": ["1600", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
                             "cols": ["16", "columns"]
@@ -434,7 +434,7 @@
                         },
                         {
                             "screen": "PC",
-                            "break": ["1180", "px"],
+                            "break": ["1200", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
                             "cols": ["12", "columns"]
@@ -541,7 +541,7 @@
                         },
                         {
                             "screen": "PC",
-                            "break": ["1380", "px"],
+                            "break": ["1400", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
                             "cols": ["12", "columns"]
@@ -648,7 +648,7 @@
                         },
                         {
                             "screen": "PC",
-                            "break": ["1380", "px"],
+                            "break": ["1400", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
                             "cols": ["12", "columns"]
