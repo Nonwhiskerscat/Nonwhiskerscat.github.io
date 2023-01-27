@@ -21,7 +21,7 @@
 
                 "header": {
                     "title": "한국 고양이<br>보호협회(고보협)",
-                    "git_link":"https://github.com/newkopc/newkopc.github.io",
+                    "git_link":"https://github.com/Nonwhiskerscat/newKOPC",
                     "web_link":"./project/webPage/newKopc/index.html"
                 },
 
@@ -118,7 +118,7 @@
 
                 "header": {
                     "title": "페어몬트<br> 앰배서더 호텔 서울",
-                    "git_link":"https://github.com/1stHotel/1stHotel.github.io",
+                    "git_link":"https://github.com/Nonwhiskerscat/Fairmont_Ambassador_Seoul",
                     "web_link":"./project/webPage/fairmontHotel/index.html"
                 },
 
@@ -476,7 +476,7 @@
 
                 "header": {
                     "title": "Kidcat<br>5X5 Game",
-                    "git_link":"https://github.com/kidcat5X5game/kidcat5X5game.github.io",
+                    "git_link":"https://github.com/Nonwhiskerscat/kidcat5X5game",
                     "web_link":"./project/javaScript/kidcat5X5game/index.html"
                 },
 
@@ -751,7 +751,7 @@
             "stroke": [""],
             "con": 1,
             "peri": 5,
-            "web_link":"https://github.com/Nonwhiskerscat/todoapp",
+            "web_link":"https://axiostester.github.io/",
             "summ": "Node.js를 활용하여 기능마다 링크를 부여하였고, MongoDB를 활용하여 <span class='common_under'>데이터 베이스에 저장된 데이터를 직접 조작</span>할 수 있도록 App을 제작하였습니다. 그리고 <span class='common_under'>SQL에 저장 되지 않은 ID/PW에 대해서는 로그인이 되지 않는</span> 기능도 구현해봤습니다.",
             "dnote": {
                 "tag_name": "tda",
@@ -762,7 +762,7 @@
                 "header": {
                     "title": "To Do App",
                     "git_link":"https://github.com/Nonwhiskerscat/todoapp",
-                    "web_link":"https://github.com/Nonwhiskerscat/todoapp/"
+                    "web_link":"https://axiostester.github.io/"
                 },
 
                 "ov": {
@@ -830,7 +830,7 @@
 
                 "header": {
                     "title": "유키가미 노와<br>리액트 클론코딩",
-                    "git_link":"https://github.com/yukigaminowa2/yukigaminowa2.github.io",
+                    "git_link":"https://github.com/Nonwhiskerscat/yukigaminowa",
                     "web_link": null
                 },
 
