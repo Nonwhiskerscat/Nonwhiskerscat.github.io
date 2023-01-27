@@ -11,7 +11,7 @@
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 20,
-            "web_link":"./pages/webPage/newKopc/index.html",
+            "web_link":"./works/webPage/newKopc/index.html",
             "summ": "레트로한 디자인과 투박한 정보 위주로 구성이 되어 있던 고양이 보호협회의 사이트를 <span class='common_under'>현대의 트렌드에 맞게 리뉴얼하여 인터페이스적인 요소와 비쥬얼적인 요소를 한 층 업그레이드</span> 시켰습니다.",
             "dnote": {
                 "tag_name": "kopc",
@@ -22,7 +22,7 @@
                 "header": {
                     "title": "한국 고양이<br>보호협회(고보협)",
                     "git_link":"https://github.com/Nonwhiskerscat/newKOPC",
-                    "web_link":"./pages/webPage/newKopc/index.html"
+                    "web_link":"./works/webPage/newKopc/index.html"
                 },
 
                 "ov": {
@@ -108,7 +108,7 @@
             "stroke": ["none", "none", "none"],
             "con": 4,
             "peri": 35,
-            "web_link":"./pages/webPage/fairmontHotel/index.html",
+            "web_link":"./works/webPage/fairmontHotel/index.html",
             "summ": "여느 호텔 사이트와 달리 레트로하고 이용하기 힘든 기존 호텔 사이트에 <span class='common_under'>디자인적인 요소와 인터페이스적인 요소를 한 층 업그레이드</span> 시켜 새로운 사이트로 리뉴얼 하였고 로그인, 정보수정, 회원가입, 고객센터 등과 같은 <span class='common_under'>부수적인 기능</span>들을 추가하였습니다.",
             "dnote": {
                 "tag_name": "fhotel",
@@ -119,7 +119,7 @@
                 "header": {
                     "title": "페어몬트<br> 앰배서더 호텔 서울",
                     "git_link":"https://github.com/Nonwhiskerscat/Fairmont_Ambassador_Seoul",
-                    "web_link":"./pages/webPage/fairmontHotel/index.html"
+                    "web_link":"./works/webPage/fairmontHotel/index.html"
                 },
 
                 "ov": {
@@ -354,7 +354,7 @@
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 12,
-            "web_link":"./pages/javaScript/nyanBaseball/index.html",
+            "web_link":"./works/javaScript/nyanBaseball/index.html",
             "summ": "J-Query를 일절 사용하지 않고 오직 <span class='common_under'>바닐라 자바스크립트 만</span>으로 숫자 야구 게임을 제작하였고, <span class='common_under'>기존 룰에서 점수 계산, 상점 기능을 추가</span>하여 재미를 한 층 더 높였습니다.",
             "dnote": {
                 "tag_name": "yagu",
@@ -365,7 +365,7 @@
                 "header": {
                     "title": "Nyan Baseball",
                     "git_link":"https://github.com/Nonwhiskerscat/nyan_baseball",
-                    "web_link":"./pages/javaScript/nyanBaseball/index.html"
+                    "web_link":"./works/javaScript/nyanBaseball/index.html"
                 },
 
                 "ov": {
@@ -466,7 +466,7 @@
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 8,
-            "web_link":"./pages/javaScript/kidcat5X5game/index.html",
+            "web_link":"./works/javaScript/kidcat5X5game/index.html",
             "summ": "<span class='common_under'>퍼스널 아이덴티티 캐릭터와 일러스트를 적절히 활용하여 디자인</span> 하였고, 3X3 TIC-TAC-TOE 게임판을 5X5 형식으로 업그레이드 하였고 <span class='common_under'>가상의 객체를 하나 내세워 승패가 결정되도록 하는 프로그램을 개발</span>하였습니다.",
             "dnote": {
                 "tag_name": "5x5",
@@ -477,7 +477,7 @@
                 "header": {
                     "title": "Kidcat<br>5X5 Game",
                     "git_link":"https://github.com/Nonwhiskerscat/kidcat5X5game",
-                    "web_link":"./pages/javaScript/kidcat5X5game/index.html"
+                    "web_link":"./works/javaScript/kidcat5X5game/index.html"
                 },
 
                 "ov": {
