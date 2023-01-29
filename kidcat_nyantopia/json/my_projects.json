@@ -237,7 +237,7 @@
             "stroke": ["none", "#e87d9e"],
             "con": 1,
             "peri": 44,
-            "web_link":"http://kidcatnyantopia.cafe24.com/",
+            "web_link":"http://kidcatnyantopia.net/",
             "summ": "일반적인 포트폴리오와 달리 <span class='common_under'>개성적인 요소를 부각시키기 위해 캐릭터를 삽입</span>하였으며, 바닐라 자바스크립트 코딩으로 <span class='common_under'>자바스크립트의 역량이 다소 높다는 것을 강조</span>하며 제작했습니다. ",
             "dnote": {
                 "tag_name": "kidcat",
@@ -248,7 +248,7 @@
                 "header": {
                     "title": "Kidcat<br>Nyantopia",
                     "git_link":"https://github.com/Nonwhiskerscat/Kidcat_Nyantopia",
-                    "web_link":"http://kidcatnyantopia.cafe24.com/"
+                    "web_link":"http://kidcatnyantopia.net/"
                 },
 
                 "ov": {
