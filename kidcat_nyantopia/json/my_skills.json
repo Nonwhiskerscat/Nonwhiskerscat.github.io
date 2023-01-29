@@ -86,7 +86,7 @@
             "freq": 30,
             "tone": "#e21722",
             "work": "객체지향을 활용한 게임 제작",
-            "summ": "Linked List, Array List 데이터 관리, Polygon Editor와 같은 <span class='common_under'>간단한 GUI 프로그래밍</span> 가능. "
+            "summ": "Linked List, Array List, Polygon Editor와 같은 <span class='common_under'>간단한 GUI 프로그래밍</span> 가능. "
         }
     ],
 
@@ -139,7 +139,7 @@
         {
             "id": 12,
             "tag": "An",
-            "name": "애니메이터",
+            "name": "애니메이트",
             "prof": 55,
             "freq": 27,
             "tone": "#fa0f00",
@@ -177,7 +177,7 @@
             "freq": 36,
             "tone": "#8bc2c9",
             "work": "3D 모델링, 리깅, 애니메이션",
-            "summ": "3D 캐릭터 모델링이 기본적으로 가능, <span class='common_under'>Skeletion 및 Joint 기능을 활용하여 리깅작업으로 캐릭터 애니메이션 구현</span> 가능"
+            "summ": "3D 캐릭터 모델링, <span class='common_under'>Skeletion 및 Joint 기능을 활용하여 리깅작업으로 캐릭터 애니메이션 구현</span> 가능"
         }
     ]
 }
