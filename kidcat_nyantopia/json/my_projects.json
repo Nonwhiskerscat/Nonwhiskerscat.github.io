@@ -698,8 +698,8 @@
                 },
 
                 "ov": {
-                    "period": ["2023.??.??", "2023.??.??"],
-                    "date": "미정",
+                    "period": ["2022.12.25", "2022.12.31"],
+                    "date": "7",
                     "mission": "리액트를 기반으로 일정 추가, 삭제, 수정 기능 구현",
                     "tools": "HTML, CSS, SCSS, Javascript, React, Yarn, 일러스트레이터"
                 },
@@ -835,8 +835,8 @@
                 },
 
                 "ov": {
-                    "period": ["2023.01.08", "2023.01.12"],
-                    "date": "5",
+                    "period": ["2023.??.??", "2023.??.??"],
+                    "date": "미정",
                     "mission": "SQL을 통해 저장된 데이터 수정 및 관리",
                     "tools": "HTML, CSS, SCSS, Javascript, Yarn, Nodejs"
                 },
