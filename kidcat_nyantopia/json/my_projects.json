@@ -816,7 +816,7 @@
             "name": "유키가미 노와 클론코딩",
             "tone_count": 2,
             "main_tone": "#ffdcf4", 
-            "tone": ["#fe71bd","#cff3fa"],
+            "tone": ["#f998e4","#cff3fa"],
             "stroke": ["none", "none"],
             "con": 1,
             "peri": 7,
@@ -854,11 +854,11 @@
                             "let_color": "#000620"
                         },
                         {
-                            "kor": "딥 핑크",
-                            "eng": "Deep Pink",
-                            "hex": "#FE71BD",
-                            "rgb": ["254", "113", "189"],
-                            "hsb": ["328", "56", "100"],
+                            "kor": "소프트 핑크",
+                            "eng": "Soft Pink",
+                            "hex": "#f998e4",
+                            "rgb": ["249", "152", "228"],
+                            "hsb": ["313", "39", "98"],
                             "let_color": "#fff"
                         },
                         {
