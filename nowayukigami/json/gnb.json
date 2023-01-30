@@ -1,0 +1,50 @@
+{
+    "gnb": [
+        {
+            "icon": "FaHome",
+            "jp": "ほーむ",
+            "en": "HOME"
+        },
+        {
+            "icon": "FaHome",
+            "jp": "ぷろふぃーる",
+            "en": "PROFILE"
+        },
+        {
+            "icon": "FaRegCalendarAlt",
+            "jp": "いべんと",
+            "en": "EVENT"
+        },
+        {
+            "icon": "FaBullhorn",
+            "jp": "おしらせ",
+            "en": "NEWS"
+        },
+        {
+            "icon": "FaPencilAlt",
+            "jp": "かつどうほうこく",
+            "en": "ACTIVITIES"
+        },
+        {
+            "icon": "FaShoppingCart",
+            "jp": "ぐっず",
+            "en": "ONLINESHOP"
+        },
+        {
+            "icon": "FaRegStickyNote",
+            "jp": "すたっふ ぶろぐ",
+            "en": "STAFF BLOG<"
+        },
+        {
+            "icon": "FaStar",
+            "jp": "えすえぬえす",
+            "en": "SNS<"
+        },
+        {
+            "icon": "FaRegEnvelope",
+            "jp": "おといあわせ",
+            "en": "INFO<"
+        }
+
+    ]
+}
