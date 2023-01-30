@@ -544,7 +544,7 @@
                             "break": ["1400", "px"],
                             "col": ["80", "px"],
                             "gut": ["20", "px"],
-                            "cols": ["12", "columns"]
+                            "cols": ["14", "columns"]
                         }
                     ]
                 },
