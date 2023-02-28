@@ -819,7 +819,7 @@
             "tone": ["#f998e4","#cff3fa"],
             "stroke": ["none", "none"],
             "con": 1,
-            "peri": 7,
+            "peri": "?",
             "web_link": null,
             "summ": "React를 활용하여 유키가미 노와 프로필 페이지를 Clone Coding하였고, <span class='common_under'>리덕스 및 라우터 기능을 활용하여 실제 웹 사이트에 접속한 것처럼 구현</span>하였습니다.",
             "dnote": {
